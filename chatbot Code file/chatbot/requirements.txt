@@ -1,0 +1,23 @@
+# Customer Service Chatbot Dependencies
+
+# Core LangChain and LangGraph
+langgraph>=0.2.0
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langchain-core>=0.3.0
+
+# OpenAI API
+openai>=1.0.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Data handling
+pydantic>=2.0.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Utilities
+typing-extensions>=4.0.0
