@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp": "2026-03-30T19:38:49.614780",
+    "next_date": "2026-03-30",
+    "rationale": "Social CVR 2.51% > Display CVR 1.09%. Shift +15% to top.",
+    "metrics": {
+      "Search": {
+        "spend": 23300.0,
+        "impressions": 332300.0,
+        "clicks": 9969.0,
+        "conversions": 227.0,
+        "ctr": 3.0,
+        "cvr": 2.28,
+        "cpa": 102.64
+      },
+      "Social": {
+        "spend": 23600.0,
+        "impressions": 229500.0,
+        "clicks": 4590.0,
+        "conversions": 115.0,
+        "ctr": 2.0,
+        "cvr": 2.51,
+        "cpa": 205.22
+      },
+      "Display": {
+        "spend": 23100.0,
+        "impressions": 251400.0,
+        "clicks": 5028.0,
+        "conversions": 55.0,
+        "ctr": 2.0,
+        "cvr": 1.09,
+        "cpa": 420.0
+      }
+    },
+    "current_allocation": {
+      "Search": 33.0,
+      "Social": 35.0,
+      "Display": 32.0
+    },
+    "new_allocation": {
+      "Search": 33.0,
+      "Social": 50.0,
+      "Display": 17.0
+    },
+    "new_budget_dollars": {
+      "Search": 3300.0,
+      "Social": 5000.0,
+      "Display": 1700.0
+    },
+    "daily_budget_total": 10000.0
+  }
+]
